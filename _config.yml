@@ -111,9 +111,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blogposts # blog_name will be displayed in your blog page
+# blog_name: blogposts for AI810 # blog_name will be displayed in your blog page
 blog_nav_title: "" # your blog must have a title for it to be displayed in the nav bar
-blog_description: Blog Posts
+blog_description: Blog posts that include two papers
 # permalink: /blog/:title/
 
 # Pagination
